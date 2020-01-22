@@ -1,0 +1,7 @@
+import turtle
+wn=turtle.Screen()
+try=turtle.Turtle()
+try.color("red")
+try.forward(80)
+try.right(60)
+try.froward(70)
